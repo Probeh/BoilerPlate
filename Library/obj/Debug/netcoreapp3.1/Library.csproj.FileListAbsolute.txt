@@ -1,0 +1,10 @@
+C:\Users\Probe\Documents\Projects\16-06-2020\Sandbox\Library\bin\Debug\netcoreapp3.1\Library.deps.json
+C:\Users\Probe\Documents\Projects\16-06-2020\Sandbox\Library\bin\Debug\netcoreapp3.1\Library.runtimeconfig.json
+C:\Users\Probe\Documents\Projects\16-06-2020\Sandbox\Library\bin\Debug\netcoreapp3.1\Library.runtimeconfig.dev.json
+C:\Users\Probe\Documents\Projects\16-06-2020\Sandbox\Library\bin\Debug\netcoreapp3.1\Library.dll
+C:\Users\Probe\Documents\Projects\16-06-2020\Sandbox\Library\bin\Debug\netcoreapp3.1\Library.pdb
+C:\Users\Probe\Documents\Projects\16-06-2020\Sandbox\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfoInputs.cache
+C:\Users\Probe\Documents\Projects\16-06-2020\Sandbox\Library\obj\Debug\netcoreapp3.1\Library.AssemblyInfo.cs
+C:\Users\Probe\Documents\Projects\16-06-2020\Sandbox\Library\obj\Debug\netcoreapp3.1\Library.dll
+C:\Users\Probe\Documents\Projects\16-06-2020\Sandbox\Library\obj\Debug\netcoreapp3.1\Library.pdb
+C:\Users\Probe\Documents\Projects\16-06-2020\Sandbox\Library\obj\Debug\netcoreapp3.1\Library.csprojAssemblyReference.cache
